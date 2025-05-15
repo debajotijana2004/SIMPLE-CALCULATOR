@@ -1,4 +1,4 @@
-# SIMPLE-CALCULATOR🧮 Simple Calculator (C++)
+# SIMPLE-CALCULATOR
 
 A beginner-friendly console-based calculator built with C++ that performs basic arithmetic operations: addition, subtraction, multiplication, and division. This program is great for practicing fundamental C++ concepts such as variables, loops, conditionals, and user input.
 🚀 Features
